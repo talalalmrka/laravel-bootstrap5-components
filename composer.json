@@ -1,0 +1,32 @@
+{
+    "name": "fadgram/laravel-bootstrap5-components",
+    "description": "Reusable Bootstrap 5 components for Laravel projects",
+    "authors": [
+        {
+            "name": "Talal Almrka",
+            "email": "talalminfo@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fadgram\\LaravelBootstrap5Components\\": "src/"
+        },
+        "files": [
+            "src/Helpers/helper.php",
+            "src/Helpers/components.php"
+        ]
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Fadgram\\LaravelBootstrap5Components\\Providers\\FadgramServiceProvider"
+            ]
+        }
+    },
+    "require-dev": {
+        "orchestra/testbench": "^9.1"
+    }
+}
