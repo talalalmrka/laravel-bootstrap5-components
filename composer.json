@@ -2,6 +2,7 @@
     "name": "fadgram/laravel-bootstrap5-components",
     "description": "Reusable Bootstrap 5 components for Laravel projects",
     "homepage": "https://github.com/talalalmrka/laravel-bootstrap5-components",
+    "version": "1.0.2",
     "license": "MIT",
     "authors": [
         {
