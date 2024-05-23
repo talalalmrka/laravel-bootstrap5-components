@@ -1,10 +1,13 @@
 {
     "name": "fadgram/laravel-bootstrap5-components",
     "description": "Reusable Bootstrap 5 components for Laravel projects",
+    "homepage": "https://github.com/talalalmrka/laravel-bootstrap5-components",
+    "license": "MIT",
     "authors": [
         {
             "name": "Talal Almrka",
-            "email": "talalminfo@gmail.com"
+            "email": "talalminfo@gmail.com",
+            "role": "Developer"
         }
     ],
     "require": {
@@ -28,5 +31,15 @@
     },
     "require-dev": {
         "orchestra/testbench": "^9.1"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://repo.packagist.org"
+        },
+        "your-repo": {
+            "type": "composer",
+            "url": "https://api.github.com/repos/talalalmrka/fadgram-laravel-bootstrap5-components"
+        }
     }
 }
