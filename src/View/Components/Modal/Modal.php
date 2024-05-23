@@ -1,6 +1,6 @@
 <?php
 
-namespace Fadgram\LaravelBootstrap5Components\Modal;
+namespace Fadgram\LaravelBootstrap5Components\View\Components\Modal;
 
 //use App\Traits\WithArray;
 use Fadgram\LaravelBootstrap5Components\View\Components\BaseComponent;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Fadgram\LaravelBootstrap5Components\Card;
+namespace Fadgram\LaravelBootstrap5Components\View\Components\Card;
 
 //use App\Traits\WithArray;
 use Fadgram\LaravelBootstrap5Components\View\Components\BaseComponent;

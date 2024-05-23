@@ -1,6 +1,6 @@
 <?php
 
-namespace Fadgram\LaravelBootstrap5Components\Form;
+namespace Fadgram\LaravelBootstrap5Components\View\Components\Form;
 
 use Closure;
 use Illuminate\Contracts\View\View;

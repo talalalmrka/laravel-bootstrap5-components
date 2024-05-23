@@ -1,6 +1,6 @@
 <?php
 
-namespace Fadgram\LaravelBootstrap5Components\Elements;
+namespace Fadgram\LaravelBootstrap5Components\View\Components\Elements;
 
 use Fadgram\LaravelBootstrap5Components\View\Components\BaseComponent;
 use Closure;
